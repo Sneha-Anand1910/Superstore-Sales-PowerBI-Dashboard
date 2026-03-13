@@ -4,6 +4,11 @@ Power BI dashboard for analyzing Superstore sales data and forecasting future sa
 
 ## Dashboard Preview
 
+### Main Sales Dashboard
+![Main Dashboard](Dashboard_Preview.png)
+
+### 15-Day Sales Forecast
+![Sales Forecast](Forecast_preview.png)
 
 ## Features
 - Sales analysis by region, category, and segment
